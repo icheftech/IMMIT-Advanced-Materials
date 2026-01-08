@@ -1,0 +1,13 @@
+data/**
+!.gitkeep
+.local/
+__pycache__/
+*.pt
+*.ckpt
+*.h5
+*.onnx
+*.zip
+*.tar.gz
+*.tif
+*.tiff
+*.hdf5
